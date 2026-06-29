@@ -59,6 +59,18 @@ Factor Lab 更适合这些使用场景：
 
 ![计算记录](assets/screenshots/runs.png)
 
+### 策略中心（断层模式）
+
+![策略中心断层模式](assets/screenshots/strategy-imm.png)
+
+### 策略中心（复利模式）
+
+![策略中心复利模式](assets/screenshots/strategy-focus.png)
+
+### 披露日历
+
+![披露日历](assets/screenshots/disclosure-calendar.png)
+
 ### 圆桌报告
 
 ![圆桌报告入口](assets/screenshots/roundtable-entry.png)
